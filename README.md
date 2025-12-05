@@ -54,7 +54,7 @@ The following data transformations were applied using **Power Query**:
 - ## Screenshots
 
 **Dashboard Overview**  
-![Dashboard Screenshot](dashboard_overview.png)
-<img width="829" height="463" alt="IBM HR DASHBOARD 1" src="https://github.com/user-attachments/assets/fc667ca2-034b-4f0e-b81f-0200711f7c3b" />
-<img width="824" height="464" alt="IBM HR DASHBOARD 2" src="https://github.com/user-attachments/assets/f7a6a855-cf3c-41b2-b3b9-e988a8d95e06" />
+![Dashboard Screenshot](<img width="829" height="463" alt="IBM HR DASHBOARD 1" src="https://github.com/user-attachments/assets/fc667ca2-034b-4f0e-b81f-0200711f7c3b" />)
+
+![Dashboard Screenshot](<img width="824" height="464" alt="IBM HR DASHBOARD 2" src="https://github.com/user-attachments/assets/f7a6a855-cf3c-41b2-b3b9-e988a8d95e06" />
 
