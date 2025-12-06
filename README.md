@@ -102,7 +102,7 @@ The Power BI dashboard contains the following key sections:
 
 3. Promotion Eligibility
 
-- 134 employees qualify as due for promotion based on years in role & performance.
+- 134 employees qualify as due for promotion based on years in role & performance rating.
 - Most promotion-ready staff come from Research & Development.
 - Very few employees in HR qualify for promotion due to low entry numbers.
 
@@ -112,7 +112,7 @@ The Power BI dashboard contains the following key sections:
 
 5. High-Risk Employees
 
-- A large number of employees in Rsearch & Development and Sales show high-risk indicators (low satisfaction and overtime).
+- A large number of employees in Research & Development and Sales show high-risk indicators (low satisfaction and overtime).
 - These departments need urgent intervention to avoid future turnover.
 
 6. Overtime & Workload
